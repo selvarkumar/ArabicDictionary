@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?><gift-doc:document xmlns:gold="http://www.gale.com/gold" xmlns:meta="http://www.gale.com/goldschema/metadata" xmlns:media="http://www.gale.com/goldschema/media" xmlns:essay="http://www.gale.com/goldschema/essay" xmlns:gift-doc="http://www.gale.com/goldschema/gift-doc" xmlns:pres="http://www.gale.com/goldschema/pres" xmlns:vault-link="http://www.gale.com/goldschema/vault-linking" xmlns:table="http://www.gale.com/goldschema/table" xmlns:verse="http://www.gale.com/goldschema/verse" xmlns:etoc="http://www.gale.com/goldschema/etoc" xmlns:index="http://www.gale.com/goldschema/index" xmlns:mla="http://www.gale.com/goldschema/mla" xmlns:paris-pub-meta="http://www.gale.com/goldschema/paris-pub-meta" xmlns:pub-meta="http://www.gale.com/goldschema/pub-meta" xmlns:list="http://www.gale.com/goldschema/list" xmlns:shared="http://www.gale.com/goldschema/shared" xmlns:dict="http://www.gale.com/goldschema/dictionary" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gale="http://galegroup.com/ns/gale/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dir="http://www.gale.com/goldschema/dir" xmlns:tt="http://www.w3.org/ns/ttml">
+<gift-doc:metadata>
+<gift-doc:node-metadata>
+<meta:volume-number>1</meta:volume-number>
+<gift-doc:pagination-group>
+<gift-doc:pagination>
+<meta:ranges>
+<meta:range>
+<meta:begin-page>254</meta:begin-page>
+<meta:end-page>255</meta:end-page>
+</meta:range>
+</meta:ranges>
+<meta:total-pages>2</meta:total-pages>
+</gift-doc:pagination>
+</gift-doc:pagination-group>
+<meta:pdf-page-range>
+<meta:begin-page>eimw_01_00285-p.pdf</meta:begin-page>
+<meta:end-page>eimw_01_00286-p.pdf</meta:end-page>
+</meta:pdf-page-range>
+<meta:page-id-number>00285</meta:page-id-number>
+<meta:document-ids>
+<meta:id type="vault">
+<meta:value>vault_id_placeholder</meta:value>
+</meta:id>
+</meta:document-ids>
+<meta:descriptive-indexing>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>PUB_SEG_TYPE</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>14242630</meta:term-id>
+<meta:term-value>Article</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+</meta:descriptive-indexing>
+<meta:document-back-of-book-index-terms>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Baraka (blessing),
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500035</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="18"')</vault-link:display-point>
+<vault-link:display-link>1: 18</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Africa, Islam in</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>18</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500036</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="22"')</vault-link:display-point>
+<vault-link:display-link>1: 22</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>African Culture and Islam</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>22</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500063</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="81"')</vault-link:display-point>
+<vault-link:display-link>1: 81</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Art</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>81</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500155</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="254"')</vault-link:display-point>
+<vault-link:display-link>1: 254</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Fatima (C. 605-633)</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>254</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Fatima,
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500155</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="254"')</vault-link:display-point>
+<vault-link:display-link>1: <pres:bold>254-255</pres:bold></vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Fatima (C. 605-633)</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display><pres:bold>254-255</pres:bold></meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+tomb of,
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500038</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="26"')</vault-link:display-point>
+<vault-link:display-link>1: 26</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Ahl Al-Bayt</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>26</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500155</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="254"')</vault-link:display-point>
+<vault-link:display-link>1: 254</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Fatima (C. 605-633)</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>254</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Fatima,
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500155</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="254"')</vault-link:display-point>
+<vault-link:display-link>1: <pres:bold>254-255</pres:bold></vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Fatima (C. 605-633)</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display><pres:bold>254-255</pres:bold></meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Hasan (Hasan ibn ˓Ali ibn Abi Talib),
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500038</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="26"')</vault-link:display-point>
+<vault-link:display-link>1: 26</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Ahl Al-Bayt</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>26</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500155</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="254"')</vault-link:display-point>
+<vault-link:display-link>1: 254</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Fatima (C. 605-633)</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>254</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500181</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="293"')</vault-link:display-point>
+<vault-link:display-link>1: <pres:bold>293</pres:bold></vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Hasan (624–670)</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display><pres:bold>293</pres:bold></meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>external</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500449</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="619"')</vault-link:display-point>
+<vault-link:display-link>2: 619</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Sharif</meta:title-display>
+<meta:volume-number-display>2</meta:volume-number-display>
+<meta:page-range-display>619</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>external</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500454</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="621"')</vault-link:display-point>
+<vault-link:display-link>2: 621</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Shi˓a: Early</meta:title-display>
+<meta:volume-number-display>2</meta:volume-number-display>
+<meta:page-range-display>621</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Hasan (Hasan ibn ˓Ali ibn Abi Talib),
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500038</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="26"')</vault-link:display-point>
+<vault-link:display-link>1: 26</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Ahl Al-Bayt</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>26</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500155</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="254"')</vault-link:display-point>
+<vault-link:display-link>1: 254</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Fatima (C. 605-633)</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>254</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500181</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="293"')</vault-link:display-point>
+<vault-link:display-link>1: <pres:bold>293</pres:bold></vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Hasan (624–670)</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display><pres:bold>293</pres:bold></meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>external</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500449</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="619"')</vault-link:display-point>
+<vault-link:display-link>2: 619</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Sharif</meta:title-display>
+<meta:volume-number-display>2</meta:volume-number-display>
+<meta:page-range-display>619</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>external</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500454</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="621"')</vault-link:display-point>
+<vault-link:display-link>2: 621</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Shi˓a: Early</meta:title-display>
+<meta:volume-number-display>2</meta:volume-number-display>
+<meta:page-range-display>621</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Husayn (Husayn b. ˓Ali b. Abi Talib),
+</meta:bob-index-term>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+birth of,
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500155</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="254"')</vault-link:display-point>
+<vault-link:display-link>1: 254</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Fatima (C. 605-633)</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>254</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500202</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="322"')</vault-link:display-point>
+<vault-link:display-link>1: 322</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Husayn (603–661)</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>322</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Sayyida Zaynab,
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500155</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="254"')</vault-link:display-point>
+<vault-link:display-link>1: 254</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Fatima (C. 605-633)</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>254</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Umm Kulthum (daughter of Fatima),
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500155</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="254"')</vault-link:display-point>
+<vault-link:display-link>1: 254</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Fatima (C. 605-633)</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>254</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>external</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500510</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="719"')</vault-link:display-point>
+<vault-link:display-link>2: 719</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>˓Uthman Ibn ˓Affan (R. 644–656)</meta:title-display>
+<meta:volume-number-display>2</meta:volume-number-display>
+<meta:page-range-display>719</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Zaynab (Sayyida Zaynam),
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500155</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="254"')</vault-link:display-point>
+<vault-link:display-link>1: 254</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Fatima (C. 605-633)</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>254</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+</meta:document-back-of-book-index-terms>
+</gift-doc:node-metadata>
+<gift-doc:document-metadata>
+<meta:document-ids>
+<meta:id type="zzNumber">
+<meta:value>3403500155</meta:value>
+<meta:prefix>CX</meta:prefix>
+</meta:id>
+</meta:document-ids>
+<meta:publication-title>Encyclopedia of Islam and the Muslim World</meta:publication-title>
+<meta:publication-date><meta:structured-date><meta:year>2004</meta:year></meta:structured-date>
+<meta:standard-date>20040000</meta:standard-date>
+</meta:publication-date>
+<meta:mcode>5AMU</meta:mcode>
+<meta:filename>eimw_01_00155.xml</meta:filename>
+<gift-doc:document-titles>
+<meta:title-display>Fatima (C. 605-633)</meta:title-display>
+<meta:title-sort>Fatima (C. 605-633)</meta:title-sort>
+<meta:title-open-url>Fatima (C. 605-633)</meta:title-open-url>
+</gift-doc:document-titles>
+<meta:authors>
+<meta:author>
+<meta:structured-name>
+<meta:first-name>Ursula</meta:first-name>
+<meta:last-name>Günther</meta:last-name>
+</meta:structured-name>
+<meta:composed-name>Ursula Günther</meta:composed-name>
+</meta:author>
+</meta:authors>
+<meta:descriptive-indexing>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>PERSON</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>13024662</meta:term-id>
+<meta:term-value>Muhammad</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>SUBJECT</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>11417916</meta:term-id>
+<meta:term-value>Role models</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>SUBJECT</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>11389125</meta:term-id>
+<meta:term-value>Women saints</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>SUBJECT</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>11231505</meta:term-id>
+<meta:term-value>Muslims</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>BIOGRAPHEE</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>14097317</meta:term-id>
+<meta:term-value>Fatimah (Daughter of Prophet Muhammad)</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>DOC_INFO_TYPE</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>14165723</meta:term-id>
+<meta:term-value>Biography</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>CONT_TYPE</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>14223264</meta:term-id>
+<meta:term-value>Primary source</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>CONT_REC_TYPE</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>17234672</meta:term-id>
+<meta:term-value>Text</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>ART_LANG</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>13858590</meta:term-id>
+<meta:term-value>English</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+</meta:descriptive-indexing>
+<meta:record-admin-info>
+<meta:standard-date type ="Original">2004</meta:standard-date>
+<meta:indexing-process>Manual</meta:indexing-process>
+</meta:record-admin-info>
+</gift-doc:document-metadata>
+</gift-doc:metadata>
+<gift-doc:body>
+
+<essay:div document-segment-type="Body text" term-id="14214508" term-source="Atlas">
+
+<?pageBreak mcode="5AMU" pageno="254" pdfname="eimw_01_00285-p.pdf"?>
+
+<essay:h1>FATIMA (C. 605-633)</essay:h1>
+<essay:p>Fatima (d. 633) was the daughter of the prophet Muhammad and Khadija, spouse of Muhammad's cousin and companion ˓Ali b. Abi Talib, and mother of al-Hasan and al-Husayn, the Prophet's only male descendants. ˓Ali headed the line of the Shi˓ite imams. Fatima's genealogical position reveals the significance attributed to her throughout the Muslim world and explains the veneration she enjoys.</essay:p>
+<essay:p>Fatima is said to be the source of blessing (<pres:italics>baraka</pres:italics>), and is a saint, particularly the patron saint of fertility, and is appealed to as a mediator between God and humans. Her blessing hand is commonly used to protect against the evil eye.</essay:p>
+<essay:p>Little is known about the actual figure hidden behind a blooming legend that combines the historical with fictional and mystical elements. Early Islamic literature such as the Prophet's biography, historiography, hadith collections, and exegetical literature do not provide a comprehensive biography of Fatima. However, they present some genealogical and biographical cornerstones and occasional events of her life. The date of her birth remains uncertain as well as the date of her marriage to ˓Ali b. Abi Talib (622 or 623). Her son Hasan was born in 624 and Husayn in 626. She also gave birth to two daughters, Umm Kulthum and Zaynab. The authors agree with regard to the year in which she died, although there is no clear reference to the month, that is, the exact period of time after her father's death. Furthermore, we find contradictory indications concerning the circumstances of her last hours, her burial at night, and the location of her tomb. Only few records deal with historical events she was involved in.</essay:p>
+<essay:p>The legend woven about Fatima provides further insights as to her importance as a spiritual personality, both for Sunni and Shi˓ite Muslims. Hagiographical literature is manifold and portrays the Prophet's daughter as a multifaceted personality, appearing in Shi˓ite texts as early as the tenth century.</essay:p>
+<essay:p>The Fatima of the legend is given numerous epithets as al-Zahra˒ (the Shining one), the Resplendent, or the supreme Mary; they all indicate that she represents the female ideal of Islam.</essay:p>
+<essay:p>Sunni hagiography emphasized the "orthodox" virtues, such as her piety and her rank as the Prophet's daughter, whereas Shi˓ite sources created a figure of cosmic importance, the final avenger on the one hand and a luminous,
+
+<?pageBreak mcode="5AMU" pageno="255" pdfname="eimw_01_00286-p.pdf"?>
+
+celestial being working miracles on the other. Her closeness to the Prophet and the imams is expressed by her belonging to the people of the Prophet's house, to the five people of the mantle, to the immaculates, and to the people of the ordeal.</essay:p>
+<essay:p>Fatima's first biographers were two European scholars, Henri Lammens and Louis Massignon. Their portraits of the Prophet's daughter stood in striking contradiction to each other. Whereas Lammens's Fatima is unattractive, of mediocre intelligence, and lacking in significance, Massignon depicts an almost mystical and sublime personality with a religious significance akin to that of the Virgin Mary. Laura Veccia Valieri's comprehensive study tries to emphasize the fact that historical reality ranges between the two portraits. Since historical sources are few and sometimes even contradictory, the conflict in historical apprehension continues. Hagiographical models in the earlier Islamic literature show—even in historical literature—that making a clear distinction between the real person and the legend can be quite difficult.</essay:p>
+<essay:p>In the course of the Islamic revolution of Iran the legend of Fatima enjoyed a considerable renaissance and actualization as the female role model. She symbolized the committed fighter, engaged for the Muslim community and thus became the model in opposition to the Western woman pursuing only her individual emancipation.</essay:p>
+</essay:div>
+<essay:div document-segment-type="Other" term-source="Atlas">
+
+<essay:p><pres:italics>See also</pres:italics> <vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500025</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-link>Abu Bakr</vault-link:display-link>
+</vault-link:vault-link>
+; <vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500051</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-link>˓Ali</vault-link:display-link>
+</vault-link:vault-link>
+; <vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500091</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-link>Biography and Hagiography</vault-link:display-link>
+</vault-link:vault-link>
+; <vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500181</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-link>Hasan</vault-link:display-link>
+</vault-link:vault-link>
+; <vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500202</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-link>Husayn</vault-link:display-link>
+</vault-link:vault-link>
+; <vault-link:vault-link>
+<vault-link:link-type>external</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500454</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-link>Shi˓a: Early</vault-link:display-link>
+</vault-link:vault-link>
+; <vault-link:vault-link>
+<vault-link:link-type>external</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500467</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-link>Succession</vault-link:display-link>
+</vault-link:vault-link>
+.</essay:p>
+</essay:div>
+<essay:div document-segment-type="Sources" term-id="17200451" term-source="Atlas">
+
+<essay:h2>BIBLIOGRAPHY</essay:h2>
+<essay:p>Hermansen, Marcia K. "Fatimeh as a Role Model in the Works of Ali Shari'ati." In <pres:italics>Women and Revolution in Iran. </pres:italics>Edited by Guity Nashat. Boulder, Colo.: Westview Press, 1983.</essay:p>
+<essay:p>Klemm, Verena. "Die frühe islamische Erzählung von Fatima bint Muhammad: Vom habar zur Legende." <pres:italics>Der Islam</pres:italics> 79 (2002): 47–86.</essay:p>
+<essay:p>Shari˓ati, ˓Ali. <pres:italics>Fatima ist Fatima.</pres:italics> Bonn: Embassy of the Islamic Republic Iran, 1981.</essay:p>
+<essay:p>Veccia Valieri, Laura. "Fatima." In <pres:italics>Encyclopaedia of Islam.</pres:italics> Edited by B. Lewis, C. Pellat, and J. Schacht. Leiden: Brill, 1954.</essay:p>
+</essay:div>
+<essay:div document-segment-type="Other" term-source="Atlas">
+
+<essay:p><pres:italics>Ursula Günther</pres:italics></essay:p>
+</essay:div>
+</gift-doc:body>
+</gift-doc:document>

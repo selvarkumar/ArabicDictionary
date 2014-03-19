@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?><gift-doc:document xmlns:gold="http://www.gale.com/gold" xmlns:meta="http://www.gale.com/goldschema/metadata" xmlns:media="http://www.gale.com/goldschema/media" xmlns:essay="http://www.gale.com/goldschema/essay" xmlns:gift-doc="http://www.gale.com/goldschema/gift-doc" xmlns:pres="http://www.gale.com/goldschema/pres" xmlns:vault-link="http://www.gale.com/goldschema/vault-linking" xmlns:table="http://www.gale.com/goldschema/table" xmlns:verse="http://www.gale.com/goldschema/verse" xmlns:etoc="http://www.gale.com/goldschema/etoc" xmlns:index="http://www.gale.com/goldschema/index" xmlns:mla="http://www.gale.com/goldschema/mla" xmlns:paris-pub-meta="http://www.gale.com/goldschema/paris-pub-meta" xmlns:pub-meta="http://www.gale.com/goldschema/pub-meta" xmlns:list="http://www.gale.com/goldschema/list" xmlns:shared="http://www.gale.com/goldschema/shared" xmlns:dict="http://www.gale.com/goldschema/dictionary" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gale="http://galegroup.com/ns/gale/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dir="http://www.gale.com/goldschema/dir" xmlns:tt="http://www.w3.org/ns/ttml">
+<gift-doc:metadata>
+<gift-doc:node-metadata>
+<meta:volume-number>2</meta:volume-number>
+<gift-doc:pagination-group>
+<gift-doc:pagination>
+<meta:ranges>
+<meta:range>
+<meta:begin-page>749</meta:begin-page>
+<meta:end-page>754</meta:end-page>
+</meta:range>
+</meta:ranges>
+<meta:total-pages>6</meta:total-pages>
+</gift-doc:pagination>
+</gift-doc:pagination-group>
+<meta:pdf-page-range>
+<meta:begin-page>eimw_02_00780-p.pdf</meta:begin-page>
+<meta:end-page>eimw_02_00785-p.pdf</meta:end-page>
+</meta:pdf-page-range>
+<meta:page-id-number>00780</meta:page-id-number>
+<meta:document-ids>
+<meta:id type="vault">
+<meta:value>vault_id_placeholder</meta:value>
+</meta:id>
+</meta:document-ids>
+<meta:descriptive-indexing>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>PUB_SEG_TYPE</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>14186929</meta:term-id>
+<meta:term-value>Glossary</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+</meta:descriptive-indexing>
+</gift-doc:node-metadata>
+<gift-doc:document-metadata>
+<meta:document-ids>
+<meta:id type="zzNumber">
+<meta:value>3403500532</meta:value>
+<meta:prefix>CX</meta:prefix>
+</meta:id>
+</meta:document-ids>
+<meta:publication-title>Encyclopedia of Islam and the Muslim World</meta:publication-title>
+<meta:publication-date><meta:structured-date><meta:year>2004</meta:year></meta:structured-date>
+<meta:standard-date>20040000</meta:standard-date>
+</meta:publication-date>
+<meta:mcode>5AMV</meta:mcode>
+<meta:filename>eimw_02_00532.xml</meta:filename>
+<gift-doc:document-titles>
+<meta:title-display>Glossary</meta:title-display>
+<meta:title-sort>Glossary</meta:title-sort>
+<meta:title-open-url>Glossary</meta:title-open-url>
+</gift-doc:document-titles>
+<meta:descriptive-indexing>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>CONT_TYPE</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>14223261</meta:term-id>
+<meta:term-value>Reference</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>CONT_REC_TYPE</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>17234672</meta:term-id>
+<meta:term-value>Text</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>ART_LANG</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>13858590</meta:term-id>
+<meta:term-value>English</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+</meta:descriptive-indexing>
+<meta:record-admin-info>
+<meta:standard-date type ="Original">2004</meta:standard-date>
+<meta:indexing-process>Manual</meta:indexing-process>
+</meta:record-admin-info>
+</gift-doc:document-metadata>
+</gift-doc:metadata>
+<gift-doc:body>
+
+<essay:div document-segment-type="Other" term-source="Atlas">
+
+<?pageBreak mcode="5AMV" pageno="749" pdfname="eimw_02_00780-p.pdf"?>
+<essay:h1><pres:italics>Glossary</pres:italics></essay:h1>
+<essay:p>
+<media:image width="486" height="158" alt="Glossary" orient="portrait">
+<meta:filename>eimw_02_img0157.jpg</meta:filename><meta:descriptive-indexing>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>DOC_INFO_TYPE</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>14170065</meta:term-id>
+<meta:term-value>Table</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+</meta:descriptive-indexing>
+<vault-link:vault-link>
+<vault-link:link-type>external</vault-link:link-type>
+<vault-link:data-type>image/jpeg</vault-link:data-type>
+<vault-link:action>embed</vault-link:action>
+<vault-link:where>
+<vault-link:path>eimw_02_img0157.jpg</vault-link:path>
+</vault-link:where>
+</vault-link:vault-link>
+</media:image>
+</essay:p>
+
+<table:table>
+<table:thead>
+	<table:tr>
+		<table:td colspan="6" rowspan="1" valign="top">
+			<pres:bold>Pronunciation Key</pres:bold>
+
+		</table:td>
+	</table:tr>
+	<table:tr>
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			<pres:bold>Symbol</pres:bold>
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			<pres:bold>Sound</pres:bold>
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			<pres:bold>Symbol</pres:bold>
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			<pres:bold>Sound</pres:bold>
+
+		</table:td>
+
+	</table:tr>
+</table:thead>
+<table:tbody>
+	<table:tr>
+		<table:td colspan="1" rowspan="1" valign="top">
+			<pres:bold>VOWELS</pres:bold>
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			a 
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			s<pres:italics>a</pres:italics>t
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			<pres:bold>CONSONANTS</pres:bold>
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			dh 
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			<pres:italics>th</pres:italics>en
+
+		</table:td>
+
+	</table:tr>
+	<table:tr>
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			a<pres:sup>h</pres:sup>
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			f<pres:italics>a</pres:italics>ther
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			h 
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			<pres:italics>h</pres:italics>orse
+
+		</table:td>
+
+	</table:tr>
+	<table:tr>
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			au 
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			m<pres:italics>ou</pres:italics>se
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			kh 
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			<pres:italics>ch</pres:italics> as in the German <pres:italics>Bach</pres:italics> or the Scottish <pres:italics>Loch</pres:italics>
+
+		</table:td>
+
+	</table:tr>
+	<table:tr>
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			ay 
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			p<pres:italics>ay</pres:italics>
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			 
+		</table:td>
+
+	</table:tr>
+	<table:tr>
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			e 
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			f<pres:italics>ee</pres:italics>t
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			sh 
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			<pres:italics>sh</pres:italics>ake
+
+		</table:td>
+
+	</table:tr>
+	<table:tr>
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			i 
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			<pres:italics>i</pres:italics>n
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			th 
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			<pres:italics>th</pres:italics>in
+
+		</table:td>
+
+	</table:tr>
+	<table:tr>
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			oo 
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			b<pres:italics>oo</pres:italics>t
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			˒
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			glottal stop, the sound in uh-oh (between the uh and the oh)
+
+		</table:td>
+
+	</table:tr>
+	<table:tr>
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			u 
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			f<pres:italics>oo</pres:italics>t
+
+    </table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top"> 
+			
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			˓
+
+		</table:td>
+
+		<table:td colspan="1" rowspan="1" valign="top">
+			voiced pharyngeal fricative
+
+		</table:td>
+
+	</table:tr>
+</table:tbody>
+</table:table>
+<essay:p><pres:italics>The syllable stress is indicated by italics. A doubled vowel such as in the word "ke-</pres:italics>taab<pres:italics>" indicates that the vowel should be said twice as long as a vowel in English.</pres:italics></essay:p>
+<essay:p><pres:bold>˓Abd (Ar., a<pres:sup>h</pres:sup>bd):</pres:bold></essay:p>
+<essay:p>"Servant." Used with one of the names of God, such as ˓Abd Allah "Servant of God" or ˓Abd al-Rahim, "Servant of the Compassionate One" or ˓Abduh, "His servant." ˓Abd also means "slave," comparable to <pres:italics>ghulam</pres:italics> (Per.) or <pres:italics>mamluk</pres:italics> (Ar.)</essay:p>
+<essay:p><pres:bold>Abu (Ar., <pres:italics>a</pres:italics><pres:sup>h</pres:sup>-boo):</pres:bold></essay:p>
+<essay:p>"Father." Used in the construct "Abu + son's name," such as "Abu Husayn," to mean the father of Husayn. Often, it is the <pres:italics>kunya</pres:italics> or the name by which a person is known. Abu can also mean "the place of," such as Abu Dhabi (the place of the gazelle) or "the one that has." "Abu" can also be written as Aba or Abi, as in ˓Ali b. Abi Talib.</essay:p>
+<essay:p><pres:bold>Adhan (Ar., a-<pres:italics>dhaan</pres:italics>):</pres:bold></essay:p>
+<essay:p>"Call to prayer." The early Muslim community in Medina is said to have debated how to summon their worshippers; Muhammad suggested the human voice. Thus, most mosques have their own <pres:italics>muezzin</pres:italics>, trained in the art of recitation, who calls worshippers to prayer five times a day.</essay:p>
+<essay:p><pres:bold>Ahl al-kitab (Ar., <pres:italics>a</pres:italics>hl al-ke-<pres:italics>taab</pres:italics>):</pres:bold></essay:p>
+<essay:p>"People of the Book." Mentioned in the Qur˒an, this phrase literally refers to religious communities who have a written scripture (the book), and specifically refers to Jews, Christians, and Sabians (Q. 5:72 "Those who believe [in the Qur˒an] those who follow the Jewish [Scriptures] and the Sabians and the Christians any who believe in Allah and the Last Day and work righteousness, on them shall be no fear nor shall they grieve.") Later Muslim rulers extended the interpretation of <pres:italics>ahl al</pres:italics>-<pres:italics>kitab</pres:italics> to include Zoroastrians, Hindus, Mandaeans, and Buddhists, among others. As such, <pres:italics>ahl al</pres:italics>-<pres:italics>kitab</pres:italics> have a specific protected status and freedom of religion within Muslim society, which the "pagan" Arabs did not enjoy.</essay:p>
+<essay:p><pres:bold>Amir al-Mu˒minin (Ar., a<pres:sup>h</pres:sup>-<pres:italics>meer</pres:italics> al-mu˒-min-<pres:italics>een</pres:italics>):</pres:bold></essay:p>
+<essay:p>"Commander of the Faithful." This title was adopted by ˓Umar ibn al-Khattab, the second leader of the Muslim community after the death of Muhammad, and was used by subsequent caliphs, heads of states, and sultans to signify their religiosity and religious authority.</essay:p>
+<essay:p><pres:bold>Ansar (Ar., an-<pres:italics>sa</pres:italics><pres:sup>h</pres:sup><pres:italics>r</pres:italics>):</pres:bold></essay:p>
+<essay:p>"The helpers", a designation referring to the people of Medina who aided Muhammad following the <pres:italics>hijra</pres:italics> (emigration) from Mecca to Medina.</essay:p>
+
+<?pageBreak mcode="5AMV" pageno="750" pdfname="eimw_02_00781-p.pdf"?>
+
+<essay:p><pres:bold>Aya (Ar., <pres:italics>a</pres:italics><pres:sup>h</pres:sup>-ya<pres:sup>h</pres:sup> pl., Ayat a<pres:sup>h</pres:sup>-<pres:italics>yaat</pres:italics>):</pres:bold></essay:p>
+<essay:p>A verse in the Qur˒an; a sign.</essay:p>
+<essay:p><pres:bold>Ayatollah (a<pres:sup>h</pres:sup>-ya<pres:sup>h</pres:sup>-tul-la<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>A Shi'ite theologian who has completed the following: 14 subjects of elementary study, independent study, and qualifications of a <pres:italics>mujtahid</pres:italics> (practitioner of independent legal reasoning) through oral examination. An ayatollah must also have attained a reputation amongst his peers, students and laity in knowledge and piety.</essay:p>
+<essay:p><pres:bold>Baraka (Ar., <pres:italics>ba</pres:italics><pres:sup>h</pres:sup>-ra<pres:sup>h</pres:sup>-ka<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>Blessings of God.</essay:p>
+<essay:p><pres:bold>Bid˓a (Ar., <pres:italics>bid</pres:italics>-a<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>"Innovation." A point of view or interpretation used in Islamic law or practice, but which is not present in the Sunna of the Prophet, and is therefore unacceptable to "traditionalists" who rely on the traditions (hadith) of Muhammad.</essay:p>
+<essay:p><pres:bold>Bint (Ar., bint):</pres:bold></essay:p>
+<essay:p>"Daughter." Used to designate the father-daughter relation-ship, such as Fatima bint Muhammad, and abbreviated in English as "bt."</essay:p>
+<essay:p><pres:bold>Caliph:</pres:bold></essay:p>
+<essay:p>"Successor." A title used by Muslim rulers to indicate their connection to Muhammad's leadership over the Muslim community. The title did not indicate, however, any sort of connection with the divine or spiritual supremacy.</essay:p>
+<essay:p><pres:bold>Companions:</pres:bold></essay:p>
+<essay:p>Most Sunni scholars believe that all those who converted to Islam during Muhammad's lifetime and who had contact with him are to be considered among his "Companions" with an ensuing righteous status. They are the primary transmitters of hadith, and it is to these people that the contemporary Salafiyya movements look for guidance. Because of the contentious relationships among some of this first generation of Muslims, Shi˓a scholars are more selective in terms of who they consider a Companion.</essay:p>
+<essay:p><pres:bold>Da˓wa (Ar., da<pres:sup>h</pres:sup>˓-wa<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>"Call." The missionary aspect of Islam in which Muslims encourage non-practicing Muslims to practice again (or practice according to a particular ideological view) and encourage non-Muslims to convert to Islam.</essay:p>
+<essay:p><pres:bold>Dhikr (Ar., dhikr):</pres:bold></essay:p>
+<essay:p>"Remembrance." An individual or collective ritual, usually involving chanting, where participants invoke the names and attributes of God. <pres:italics>Dhikr</pres:italics> is a central element in Sufi practice and spirituality.</essay:p>
+<essay:p><pres:bold>Dhimmi (Ar., <pres:italics>dhim</pres:italics>-mee):</pres:bold></essay:p>
+<essay:p>Protected groups of non-Muslims living under Muslim rule, primarily People of the Book (<pres:italics>ahl al</pres:italics>-<pres:italics>kitab</pres:italics>). <pres:italics>Dhimmi</pres:italics>s were required to pay a tax (<pres:italics>jiziya</pres:italics>) and were not allowed to serve in the army, although many rose to prominence as scholars, government advisors and officers, and physicians. Both <pres:italics>dhimmi</pres:italics> status and the <pres:italics>jiziya</pres:italics> tax do not exist in contemporary nation-states.</essay:p>
+<essay:p><pres:bold>Dhu-l-Hijja (Ar., dhul-<pres:italics>hij</pres:italics>-ja<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>The twelfth month of the Islamic calendar and the month in which the <pres:italics>hajj</pres:italics>, the pilgrimage to Mecca, takes place.</essay:p>
+<essay:p><pres:bold>Emir/Amir (Ar., Per., a<pres:sup>h</pres:sup>-<pres:italics>meer</pres:italics>):</pres:bold></essay:p>
+<essay:p>A prince, ruler or commander, but early usage also included a military commander.</essay:p>
+<essay:p><pres:bold>Faqih (Ar., fa-<pres:italics>keeh</pres:italics>):</pres:bold></essay:p>
+<essay:p>A jurist, thus one who would be an expert in shari˓a, especially <pres:italics>fiqh</pres:italics>.</essay:p>
+<essay:p><pres:bold>Al-Fatiha (Ar., al-<pres:italics>fa</pres:italics>-tee-ha<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>The opening chapter of the Qur˒an, consisting of seven <pres:italics>ayat </pres:italics>(verses). This chapter is said in prayers as well as at significant times, such as marriage.</essay:p>
+<essay:p><pres:bold>Fatwa (Ar., <pres:italics>fat</pres:italics>-wa<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>"Legal opinion." Issued by a mufti or some other recognized and qualified scholar, a <pres:italics>fatwa</pres:italics> is a legal or advisory opinion in answer to a specific question or a broader issue facing the community.</essay:p>
+<essay:p><pres:bold>Fiqh (Ar., fik):</pres:bold></essay:p>
+<essay:p>"Jurisprudence." The science of studying the shari a.</essay:p>
+<essay:p><pres:bold>Fitna (Ar., <pres:italics>fit</pres:italics>-na<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>First used to describe the violent factional dissension that took place in the early Islamic community, it denotes Muslims fighting Muslims, and as such signals the end of Muslim unity, and the domination of chaos and irreligiosity. <pres:italics>Fitna</pres:italics> is also used to describe temptations that test believers' religious commitments.</essay:p>
+<essay:p><pres:bold>Futuhat (Ar., fu<pres:sup>h</pres:sup>-tu<pres:sup>h</pres:sup>-<pres:italics>haat</pres:italics>):</pres:bold></essay:p>
+<essay:p>The conquest of territory by Muslim armies.</essay:p>
+<essay:p><pres:bold>Hadith (Ar., ha-<pres:italics>deeth</pres:italics>, pl., <pres:italics>ahadith</pres:italics> a-ha-<pres:italics>deeth</pres:italics>):</pres:bold></essay:p>
+<essay:p>The utterances, opinions, or rulings of the prophet Muhammad. According to the methods through which they have been collected and verified in the three centuries following his death, two elements are essential to a reliable hadith: a continuous, verifiable <pres:italics>isnad</pres:italics> (chain of transmitters), and a correspondence (or absence of contradiction to) the Qur˒an. The Hadith, along with the Sunna and the Qur'an are the main sources for Islamic law. Sunnis and Shi˓ites share many <pres:italics>ahadith</pres:italics>, but have different <pres:italics>isnad</pres:italics>s.</essay:p>
+<essay:p><pres:bold>Hajj (Ar., haj):</pres:bold></essay:p>
+<essay:p>The pilgrimage rite to Mecca, one of the essential requirement of being a Muslim. Muslims come from all over the world to participate once a year in the Hajj, commemorating Abraham's building of the Ka˓ba and the difficult experiences of Hagar and Isma˓il. The Hajj is required of Muslims once in their lifetime, but only if physically and financially able to do so—they cannot leave behind debts, and they must have paid the <pres:italics>zakat</pres:italics> on the resources they use to go on Hajj. After a person completes the pilgrimage, a man is called a Hajj or Hajji and a woman is called a Hajja.</essay:p>
+
+<?pageBreak mcode="5AMV" pageno="751" pdfname="eimw_02_00782-p.pdf"?>
+
+<essay:p><pres:bold>Halal (Ar., ha<pres:sup>h</pres:sup>-<pres:italics>laal</pres:italics>):</pres:bold></essay:p>
+<essay:p>Permitted according to Islamic law. The use of the word also signifies a slaughtering technique that sanctifies meat for Muslims.</essay:p>
+<essay:p><pres:bold>Hanafi (Ar., <pres:italics>ha</pres:italics>-na-fee):</pres:bold></essay:p>
+<essay:p>One of the four Sunni schools of Islamic law, named after Abu Hanifa (699–767).</essay:p>
+<essay:p><pres:bold>Hanbali (Ar., <pres:italics>han</pres:italics>-baal-ee):</pres:bold></essay:p>
+<essay:p>One of the four Sunni schools of Islamic law, named after Ahmad ibn Hanbal (780–855)</essay:p>
+<essay:p><pres:bold>Haram (Ar., ha<pres:sup>h</pres:sup>-<pres:italics>raam</pres:italics>):</pres:bold></essay:p>
+<essay:p>Forbidden in Islamic law, such as the consumption of pork and alcohol are haram.</essay:p>
+<essay:p><pres:bold>Haram (<pres:italics>ha</pres:italics><pres:sup>h</pres:sup>-ram):</pres:bold></essay:p>
+<essay:p>A holy place, a sanctuary. Mecca is referred to as Masjid al-Haram and the al-Haram al-Sharif in Jerusalem is the location of the Dome of the Rock and the Masjid al-Aqsa.</essay:p>
+<essay:p><pres:bold>Hijra (Ar., <pres:italics>hij</pres:italics>-ra<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>"Emigration." This term refers to the journey of Muhammad from Mecca to Medina in 622 <pres:small>C.E.</pres:small> and marks the beginning of the Muslim (lunar) calendar, known by the same name, abbreviated as A.H. (Arabic Hijra or Hegira)</essay:p>
+<essay:p><pres:bold>Hizb (Ar., hizb):</pres:bold></essay:p>
+<essay:p>A political party or movement, as in Hizb Allah (Party of God) in Lebanon.</essay:p>
+<essay:p><pres:bold>˓Ibadat (Ar., e-baa-<pres:italics>daat</pres:italics>):</pres:bold></essay:p>
+<essay:p>Devotional acts of worship.</essay:p>
+<essay:p><pres:bold>Ibadis (Ibadiyya) (Ar., e-ba<pres:sup>h</pres:sup>-<pres:italics>de</pres:italics>-ya):</pres:bold></essay:p>
+<essay:p>See Khawarij.</essay:p>
+<essay:p><pres:bold>Ibn (Ar., <pres:italics>i</pres:italics>-bin):</pres:bold></essay:p>
+<essay:p>"Son." Used in the construct of names to indicate the son-father relationship, thus Ibn Hasan is the "son of Hasan". Often it is the name by which people are known, their <pres:italics>kunya</pres:italics>, although it does not necessarily reflect their father's name, such as Ibn Sina or Ibn Rushd. In Arabic, when "ibn" occurs between names it is pronounced or written as "bin," as in ˓Ali bin Abi Talib. "Ibn" is oftentimes abbreviated in English as "b." as in ˓Ali b. Abi Talib.</essay:p>
+<essay:p><pres:bold>Id al-Adha (Ar., <pres:italics>eed</pres:italics>-ul-<pres:italics>a</pres:italics><pres:sup>h</pres:sup><pres:italics>d</pres:italics>-ha<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>"Feast of Sacrifice." This celebration marks the end of the hajj (pilgrimage) when pilgrims sacrifice an animal as part of their hajj ritual, and which Muslims also do all over the world (and donate a portion of it to the poor). It falls on the 10th of the month of Dhu-l-Hijja, and is also called al-Id al-Kabir (the big Feast) or Bayram.</essay:p>
+<essay:p><pres:bold>˓Id al-Fitr (Ar., <pres:italics>eed</pres:italics>-ul-<pres:italics>fit</pres:italics>-r):</pres:bold></essay:p>
+<essay:p>"Feast of Fast-breaking." This occasion marks the end of the month of Ramadan, the month of fasting. Special ˓Id prayers are offered in the morning, and children and adults often get new clothes. Also called al-˓Id al-Saghir (the smaller Feast).</essay:p>
+<essay:p><pres:bold>Ijma˓ (Ar., ij-ma<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>"Scholarly consensus," and one of the main methods for developing and interpreting Islamic law.</essay:p>
+<essay:p><pres:bold>Ijtihad (Ar., ij-ti-haad):</pres:bold></essay:p>
+<essay:p>"Independent legal judgement." The interpretation of law based on individual reasoning.</essay:p>
+<essay:p><pres:bold>˓Ilm (Ar., ilm, pl. ˓Ulum, u-<pres:italics>luum</pres:italics>):</pres:bold></essay:p>
+<essay:p>In religious terms, <pres:italics>˓ilm</pres:italics> means knowledge and also gives us the word "ulema" (religious scholars) meaning those who are knowledgeable. In both the historical and contemporary Muslim world, <pres:italics>˓ilm</pres:italics> also means "science."</essay:p>
+<essay:p><pres:bold>˓Ilm al-Rijal (Ar., ilm-ul-ri-<pres:italics>jaal</pres:italics>):</pres:bold></essay:p>
+<essay:p>The study of the people who transmitted the hadith (sayings and practices of Muhammad) and who are mentioned in the <pres:italics>isnad</pres:italics>s (chains of transmission). Biographies of these early Muslims are the topic of many books and provides material for judging the soundness or believability of each hadith.</essay:p>
+<essay:p><pres:bold>Imam (Ar., Per., ee-<pres:italics>maam</pres:italics>):</pres:bold></essay:p>
+<essay:p>Among Sunnis, an imam is a legal scholar or the prayer leader in a mosque. Among Shi˓ite communities, an imam is an infallible guide to the community, descended from the family of the Prophet. The Twelver Shi˓ites believe that there were twelve imams, the last one of which went into occultation (hiding) and will return one day as the mahdi.</essay:p>
+<essay:p><pres:bold>Imami (Ar., ee-maam-ee):</pres:bold></essay:p>
+<essay:p>Twelver Shi˓ites or Imamai Shi˓ites. See Shi˓ites.</essay:p>
+<essay:p><pres:bold>Iman (Ar., ee-maan):</pres:bold></essay:p>
+<essay:p>"Faith."</essay:p>
+<essay:p><pres:bold>Islam (Ar., Is-<pres:italics>la</pres:italics><pres:sup>h</pres:sup><pres:italics>m</pres:italics>):</pres:bold></essay:p>
+<essay:p>The religion of Islam. Someone who follows Islam is a Muslim, which means that he or she believes that there is no god but God and that Muhammad is the Messenger of God. The word Islam, meaning "surrender" comes from the Arabic root (s-l-m) which denotes wholeness, peace, and safety, suggesting that these are the qualities one achieves through surrendering oneself to God.</essay:p>
+<essay:p><pres:bold>Isma˓ili (Ar., is-ma-<pres:italics>ee</pres:italics>-lee):</pres:bold></essay:p>
+<essay:p>Shi˓ites who disagreed with the main body of Shi˓a over the identity of the seventh Imam. The Isma˓ilis followed Ja˓far al-Sadiq's eldest son Isma˓il, while the majority (called the Imamis or Twelvers) followed his younger son Musa al-Kazim. Because of the split over the identity of the Seventh Imam, the Isma˓ilis are also called Seveners, and the Agha Khan is the current head of the Nizari sect of the Isma˓ilis.</essay:p>
+<essay:p><pres:bold>Isra˒ (Ar., is-<pres:italics>ra</pres:italics><pres:sup>h</pres:sup>˒):</pres:bold></essay:p>
+<essay:p>Muhammad's Night Journey (al-Isra˒ wal-Mi˓raj); see <pres:italics>mi˓raj</pres:italics>.</essay:p>
+<essay:p><pres:bold>Jahiliyya (Ar., ja-hi-<pres:italics>lee</pres:italics>-ya<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>"Time of Ignorance." The Arabic and Muslim way of referring to pre-Islamic history in the Arabian peninusula.</essay:p>
+<essay:p><pres:bold>Jami˓ (Ar., <pres:italics>jaa</pres:italics>-mi):</pres:bold></essay:p>
+<essay:p>A congregational mosque for Friday prayers, as opposed to a <pres:italics>masjid</pres:italics> or a <pres:italics>musalla</pres:italics>. Jami˓s are usually quite large in order to 
+
+<?pageBreak mcode="5AMV" pageno="752" pdfname="eimw_02_00783-p.pdf"?>
+
+hold the entire population who will pray and listen to the <pres:italics>khitab</pres:italics> or sermon of an <pres:italics>imam</pres:italics>.</essay:p>
+<essay:p><pres:bold>Jihad (Ar., ji-<pres:italics>haad</pres:italics>):</pres:bold></essay:p>
+<essay:p>"Struggle." Over time, the concept of a "jihad" has developed to include both the greater jihad, or the struggle by the individual to be a righteous Muslim, and the lesser jihad, or the struggle to fight oppression and defend the Muslim community. In the eighteenth and nineteenth centuries Asia and Africa witnessed reform movements that embarked on jihads to reform the Muslim communities and to fight colonial rule. More recently, certain groups have interpreted the concept of jihad to mean to fight non-Muslims.</essay:p>
+<essay:p><pres:bold>Jinn (or Jinni) (Ar., jin):</pres:bold></essay:p>
+<essay:p>Invisible, supernatural creatures, mentioned in the Qur˒an, and who can be good or bad.</essay:p>
+<essay:p><pres:bold>Jum˓a (Ar., <pres:italics>joo</pres:italics>-ma<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>"Friday." The word also is used to describe the Jum˓a mosque of a particular city (see Jami˓) or <pres:italics>salat al</pres:italics>-<pres:italics>jum˓a</pres:italics> (Friday prayers).</essay:p>
+<essay:p><pres:bold>Ka˓ba (Ar., <pres:italics>ka</pres:italics><pres:sup>h</pres:sup>-ba<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>The name of the sacred, cube-shaped building located in the Haram in Mecca. The Black Stone is set in a silver frame in one of the lower corners and the whole building is covered by an embroidered cloth (<pres:italics>kiswa</pres:italics>). Muslims pray towards the Ka˓ba and circumambulate it during <pres:italics>hajj</pres:italics>. Muslims believe that the Ka˓ba was constructed by Abraham and Isma˓il (see Q.2: 127–129).</essay:p>
+<essay:p><pres:bold>Kalam (Ar., ka-<pres:italics>laam</pres:italics>):</pres:bold></essay:p>
+<essay:p>"Theology."</essay:p>
+<essay:p><pres:bold>Karbala (ka<pres:sup>h</pres:sup>r-ba<pres:sup>h</pres:sup>-<pres:italics>la</pres:italics><pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>The burial site of Husayn bin ˓Ali, the grandson of Muhammad, located in southern Iraq, south of Baghdad, and a popular place of pilgrimage for Shi˓ites.</essay:p>
+<essay:p><pres:bold>Khawarij (Kharajites) (Ar., kha-<pres:italics>waa</pres:italics>-rij):</pres:bold></essay:p>
+<essay:p>An early sect of Islam that advocated a strict and puritanical interpretation of religious dogma. They believed that any Muslim was qualified to lead the community (in antithesis to Shi˓a beliefs), but also held that mortal sins had the effect of making a Muslim into a non-believer and deserving of death. A group of Kharajites murdered ˓Ali, thereby inadvertantly facilitating the rise to power of the Umayyads, who suppressed them. Although largely wiped out, a major branch of the Kharajite movement, the Ibadiyya, continue to exist today in Oman and east Africa.</essay:p>
+<essay:p><pres:bold>Al-Khulafa˒ al-Rashidun (The Rightly-guided Caliphs, Ar., alkhu-la-<pres:italics>fa</pres:italics>˒ ar-raa-shi-<pres:italics>doon</pres:italics>):</pres:bold></essay:p>
+<essay:p>Sunni Muslims call the first four Caliphs who led the Muslim community the Rightly-guided Caliphs: Abu Bakr, ˓Umar, ˓Uthman, and ˓Ali. After these men, who were selected by the community, rule was taken over by the Umayyad dynasty who assumed hereditary rule. Shi˓a and Ibadis do not use the term "<pres:italics>al</pres:italics>-<pres:italics>khulafa˒ al</pres:italics>-<pres:italics>rashidun</pres:italics>."</essay:p>
+<essay:p><pres:bold>Khutba (Ar., <pres:italics>khut</pres:italics>-ba<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>The sermon during Friday prayers that is often delivered by an imam.</essay:p>
+<essay:p><pres:bold>Kunya (<pres:italics>kun</pres:italics>-ya<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>Another name by which a person is known, which is often the more commonly used and well-known than the person's given name. In many cases the <pres:italics>kunya</pres:italics> will be the "Father of," "Son of," "Mother of," or "Daughter of" construction. For example, the 11th century Persian scientist Abu ˓Ali al-Husayn ibn ˓Abdallah ibn Sina is referred to only as Ibn Sina and the ninth century writer Abu ˓Uthman Amr b. Bahr al-Fuqaymi al-Basri is known as al-Jahiz (the bug-eyed).</essay:p>
+<essay:p><pres:bold>Madhhab (Ar., <pres:italics>madh</pres:italics>-hab, pl., <pres:italics>madhahib</pres:italics>):</pres:bold></essay:p>
+<essay:p>A school of thought in traditional Islamic scholarship, such as in law and theology. Among Sunni Muslims, four schools of law are recognized, named after the eminent scholars whose juridical works they were based on: Hanafi, Maliki, Hanbali, Shafi˓i. The Shi˓ites follow the Ja˓fari school, named after the sixth Imam, Ja˓far al-Sadiq, along with the <pres:italics>ijtihad</pres:italics> of living scholars of eminence.</essay:p>
+<essay:p><pres:bold>Madrasa (Ar., <pres:italics>ma</pres:italics>-dra-sa):</pres:bold></essay:p>
+<essay:p>"School." Historically a <pres:italics>madrasa</pres:italics> refers to a Sunni Muslim college where shari˓a and other Islamic sciences were taught, while currently a <pres:italics>madrasa</pres:italics> refers to any school, religious or secular, private or public.</essay:p>
+<essay:p><pres:bold>Maliki (Ar., <pres:italics>maa</pres:italics>-lik-ee):</pres:bold></essay:p>
+<essay:p>One of the four Sunni schools of law, named after Malik Ibn Anas (715–795).</essay:p>
+<essay:p><pres:bold>Masjid (Ar., <pres:italics>mas</pres:italics>-jid, pl., Masajid) :</pres:bold></essay:p>
+<essay:p>Mosque.</essay:p>
+<essay:p><pres:bold>Maulid (Mawlid) (Ar., <pres:italics>mau</pres:italics>-lid):</pres:bold></essay:p>
+<essay:p>A yearly birthday celebration for the prophet Muhammad or a famous saint, common in Egypt and North Africa.</essay:p>
+<essay:p><pres:bold>Mi˓raj (Ar., mi-<pres:italics>ra</pres:italics><pres:sup>h</pres:sup><pres:italics>j</pres:italics>):</pres:bold></essay:p>
+<essay:p>Part of the <pres:italics>al</pres:italics>-<pres:italics>Isra˒ wal</pres:italics>-<pres:italics>Mi˓raj</pres:italics>, Muhammad's night journey (Q. 17:1) that took him to the seven heavens.</essay:p>
+<essay:p><pres:bold>Mihrab (Ar., mih-<pres:italics>ra</pres:italics><pres:sup>h</pres:sup><pres:italics>b</pres:italics>):</pres:bold></essay:p>
+<essay:p>The recessed arched niche in the mosque indicating direction of prayer towards Mecca. It is often highly decorated.</essay:p>
+<essay:p><pres:bold>Minaret:</pres:bold></essay:p>
+<essay:p>The tower or raised section of a mosque from where the muezzin gives the call to prayer. Historically, these towers have staircases inside so that the muezzin could climb the stairs and issue the call to prayer from a balcony. Today, most calls to prayer are broadcast from loudspeakers attached to the minaret.</essay:p>
+<essay:p><pres:bold>Muezzin (Moo-<pres:italics>az</pres:italics>-zin, Ar., mu˒<pres:italics>adh</pres:italics>-dhin):</pres:bold></essay:p>
+<essay:p>The person who gives the call to prayer (<pres:italics>adhan</pres:italics>). Men or boys are chosen for this position for a variety of reasons, among them because of the quality of their voice; as an honor to that person for their service; or as a means of employment.</essay:p>
+<essay:p><pres:bold>Mufti (Ar., <pres:italics>muf</pres:italics>-tee):</pres:bold></essay:p>
+<essay:p>Chief Islamic jurist and a scholar who can issue <pres:italics>fatwa</pres:italics>s or legal opinions.</essay:p>
+
+<?pageBreak mcode="5AMV" pageno="753" pdfname="eimw_02_00784-p.pdf"?>
+
+<essay:p><pres:bold>Muhajirun (Ar., mu-<pres:italics>haa</pres:italics>-ji-roon):</pres:bold></essay:p>
+<essay:p>The Muslims who immigrated to Medina with Muhammad in 622 <pres:small>C.E.</pres:small>, and who were helped by the Ansar, the Medinans who aided them and became part of the fledgling Muslim community.</essay:p>
+<essay:p><pres:bold>Mujtahid (Ar., muj-<pres:italics>taa</pres:italics>-hid):</pres:bold></essay:p>
+<essay:p>A religious scholar who practices independent legal judgement and reasoning (<pres:italics>ijtihad</pres:italics>) to form a legal opinion.</essay:p>
+<essay:p><pres:bold>Muslim (Ar., <pres:italics>mus</pres:italics>-lim):</pres:bold></essay:p>
+<essay:p>A follower of Islam.</essay:p>
+<essay:p><pres:bold>Nabi (Ar., na-<pres:italics>bee</pres:italics>):</pres:bold></essay:p>
+<essay:p>A prophet of God. In Islam, this includes the prophets from the Judeo-Christian tradition, such as Moses, Abraham, Jesus, among many others.</essay:p>
+<essay:p><pres:bold>PBUH: See S.A.W.</pres:bold></essay:p>
+<essay:p><pres:bold>Qadi (Ar., <pres:italics>ka</pres:italics><pres:sup>h</pres:sup>-dee):</pres:bold></essay:p>
+<essay:p>A judge whose responsibilities are in the areas of religious law.</essay:p>
+<essay:p><pres:bold>Qibla (Ar., <pres:italics>kib</pres:italics>-la):</pres:bold></essay:p>
+<essay:p>The direction of prayer, i.e., the direction of Mecca. The direction is often marked in a mosque by a <pres:italics>mihrab</pres:italics>, which traditionally takes the shape of an arched niche in the <pres:italics>qibla</pres:italics> wall.</essay:p>
+<essay:p><pres:bold>Qiyas (Ar., <pres:italics>kee</pres:italics>-yas):</pres:bold></essay:p>
+<essay:p>Analogical reasoning used in Islamic law.</essay:p>
+<essay:p><pres:bold>Qur˒an (also written as Koran) (Ar., ku<pres:sup>h</pres:sup>-<pres:italics>ra</pres:italics><pres:sup>h</pres:sup><pres:italics>n</pres:italics>):</pres:bold></essay:p>
+<essay:p>The Muslim Holy Book. Muslims consider the Qur˒an to be the divine revelation of God to humankind and the basis for living a right and just life as a Muslim. As the word of God, it is untranslatable and is only the Qur˒an in the language of revelation (Arabic). Muslims recite portions of the Qur˒an in their prayers. The Qur˒an consists of <pres:italics>sura</pres:italics>s (chapters) which are arranged by length; therefore, the Qur˒an does not follow a narrative or chronological order.</essay:p>
+<essay:p><pres:bold>Ramadan (Ar., ra<pres:sup>h</pres:sup>-ma<pres:sup>h</pres:sup>-<pres:italics>da</pres:italics><pres:sup>h</pres:sup><pres:italics>n</pres:italics>):</pres:bold></essay:p>
+<essay:p>The lunar month in which Muslims fast from food, drink, smoking, sex, and gossip (among other things) from sunrise until sunset. It falls on the ninth month of the Muslim lunar calendar, and ends with the ˓Id al-Fitr.</essay:p>
+<essay:p><pres:bold>Rasul (Ar., ra<pres:sup>h</pres:sup>-<pres:italics>su</pres:italics><pres:sup>h</pres:sup><pres:italics>l</pres:italics>):</pres:bold></essay:p>
+<essay:p>A messenger of God.</essay:p>
+<essay:p><pres:bold>S.A.W. (Sa<pres:sup>h</pres:sup>l-<pres:italics>allah</pres:italics> ˓a<pres:sup>h</pres:sup>-<pres:italics>lay</pres:italics>-he wa-<pres:italics>sal</pres:italics>-lam):</pres:bold></essay:p>
+<essay:p>"Prayers and peace of God be upon him." Muslim invocation after writing or mentioning the name of Muhammad. Also rendered in English as PBUH (Peace be upon Him).</essay:p>
+<essay:p><pres:bold>Sahaba (Ar., sa<pres:sup>h</pres:sup>-<pres:italics>ha</pres:italics><pres:sup>h</pres:sup>-ba<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>See Companions.</essay:p>
+<essay:p><pres:bold>Salafi (Ar., <pres:italics>sa</pres:italics>-la-fee):</pres:bold></essay:p>
+<essay:p>A term used by Muslims to denote a thinker or a movement who idealizes the time of the Prophet and thinks that contemporary Muslim societies must return to those standards and mores in order to achieve the best society. Originally coined by Muhammad ˓Abduh in the late 19th century, the term initially was meant as a reform movement to end corruption in society and to address the issues of the modern world. However, the term "Salafi" has come to have a much more extreme and coercive meaning, particularly as Wahhabi and other groups have forced their own definitions of Salafi ideals en masse on their populations (and others).</essay:p>
+<essay:p><pres:bold>Salat (Ar., sa<pres:sup>h</pres:sup>-<pres:italics>la</pres:italics><pres:sup>h</pres:sup><pres:italics>t</pres:italics>):</pres:bold></essay:p>
+<essay:p>"Prayer." Prayer is one of the pillars of Muslim devotional life. Muslims pray five times a day, a practice which takes a few minutes and can be done in a mosque or any clean place. In order to pray, Muslims must be in a state of cleanliness, achieved by doing <pres:italics>wudu˒</pres:italics> (ablutions).</essay:p>
+<essay:p><pres:bold>Saum (Sawm) (Ar., saum, pl., <pres:italics>Siyam</pres:italics>):</pres:bold></essay:p>
+<essay:p>"Fasting." For Muslims a fast from food and liquids takes place from sunrise to sunset, and occurs for a month during Ramadan as well as other special occasions and recommended times. See Ramadan.</essay:p>
+<essay:p><pres:bold>Shafi˓i (Ar., <pres:italics>sha</pres:italics>-fi-ee):</pres:bold></essay:p>
+<essay:p>One of the four schools of Sunni law, named after the Imam al-Shafi˓i (d. 820).</essay:p>
+<essay:p><pres:bold>Shahada (Ar., sha-<pres:italics>haa</pres:italics>-da):</pres:bold></essay:p>
+<essay:p>"Profession of faith." The <pres:italics>shahada</pres:italics> is the major pillar of Muslim doctrine and must be said with intention in order to become a Muslim: "There is no god but God and Muhammad is the messenger of God."</essay:p>
+<essay:p><pres:bold>Shari˓a (Ar., sha-<pres:italics>ree</pres:italics>-a):</pres:bold></essay:p>
+<essay:p>"Islamic law." The Qur'an, Hadith (sayings of the Prophet), and the Sunna (practices) are the basis for scholars and judges to determine shari˓a. With no central authority deciding legal issues, four schools (<pres:italics>madhhab</pres:italics>s) have emerged in Sunni law, although most scholars warn against blind adherence to a particular school (<pres:italics>taqlid</pres:italics>), and instead promote <pres:italics>ijtihad</pres:italics> (independent reasoning and legal judgement) as a means to best understand shari˓a at any particular time and situation. While Shi˓ites follow their own Ja˓fari school, they do not follow a fixed canon of law because Shi˓ite theologians continue to practice <pres:italics>ijtihad</pres:italics> to this day. Among the Shi˓a, there are a number of living scholars of eminence among whom the laity chose to follow in matters of shari˓a to find fresh answers to current problems.</essay:p>
+<essay:p><pres:bold>Shaykh (Sheikh, Ar., shaykh):</pres:bold></essay:p>
+<essay:p>Used as a title of respect, <pres:italics>shaykh</pres:italics> can refer to a religious scholar, the leader of a Sufi order, the head of a tribe or village, or an old man.</essay:p>
+<essay:p><pres:bold>Shi˓ite (she-ite):</pres:bold></essay:p>
+<essay:p>Derived from their name, <pres:italics>shi˓t ˓Ali</pres:italics>, or "the party of ˓Ali", the Shi˓a are one of the major groups of Muslims; the other being Sunni. The Shi˓ite believe that rule of the community (led by an Imam) should be through ˓Ali and the descendants of the Prophet through his daughter Fatima who was married to ˓Ali. They split into smaller divisions, over disagreements about the inheritance of the office of imam (see Isma˓ili). Today they make up about 15% of the Muslim population 
+
+<?pageBreak mcode="5AMV" pageno="754" pdfname="eimw_02_00785-p.pdf"?>
+
+and predominate or have significant minorities in Iran, Iraq, Lebanon, Yemen, and other Arabian Gulf states.</essay:p>
+<essay:p><pres:bold>Sufism (Ar., <pres:italics>Tasawwuf</pres:italics>) :</pres:bold></essay:p>
+<essay:p>An understanding of Islam that emphasizes mystical or spiritual practice. A Sufi is a practitioner of Sufism, and different groups or <pres:italics>tariqa</pres:italics>s ("paths") have different relationships with orthodox practices, varying in time and place. Traditionally, Sufi orders have been run by a <pres:italics>shaykh</pres:italics> (Ar.) or a <pres:italics>pir</pres:italics> (Per.), whom students (<pres:italics>murid</pres:italics>s) follow closely. Also associated historically with Sufism are <pres:italics>khanqa</pres:italics>s, <pres:italics>zawiya</pres:italics>s, and <pres:italics>ribat</pres:italics>s, residences and centers of spiritual practice.</essay:p>
+<essay:p><pres:bold>Sunna (Ar., <pres:italics>sun</pres:italics>-na<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>The practices, actions, and behavior of the prophet Muhammad. These are stories about him recorded by his companions and family in the same style as the hadith. The Sunna, along with the Hadith and Qur˒an, comprise the main sources of Islamic law. "Sunna" is also a legal term used to describe a Muslim practice that is recommended (but not required), as in it is sunna to hold a celebratory feast (<pres:italics>walima</pres:italics>) for a wedding.</essay:p>
+<essay:p><pres:bold>Sunni (Ar., <pres:italics>sun</pres:italics>-nee):</pres:bold></essay:p>
+<essay:p>The largest group of Muslim adherents, the Sunni emphasize the Sunna (actions of Muhammad), the hadith (sayings of the Prophet) and the Qur'an. Through these sources they have developed four schools of law (<pres:italics>madhhab</pres:italics>s). They are the largest percentage of Muslims, making up approximately 85 percent of worshippers today.</essay:p>
+<essay:p><pres:bold>Sura (Ar., <pres:italics>soo</pres:italics>-ra<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>A chapter of the Qur'an. Each chapter is referred to by a number (114 total), and by a name, as in Surat al-Qamr (the Sura of the Moon) or Surat Maryam (the Sura of Mary), and contains any number of <pres:italics>ayat</pres:italics> (verses), ranging from 3 to 286.</essay:p>
+<essay:p><pres:bold>Tafsir (Ar., taf-<pres:italics>seer</pres:italics>):</pres:bold></essay:p>
+<essay:p>Interpretation of the Qur˒an.</essay:p>
+<essay:p><pres:bold>Tahara (Ar., ta<pres:sup>h</pres:sup>-<pres:italics>ha</pres:italics><pres:sup>h</pres:sup>-ra<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>"Purification," and can also refer to circumcision.</essay:p>
+<essay:p><pres:bold>Tariqa (ta-<pres:italics>ree</pres:italics>-ka):</pres:bold></essay:p>
+<essay:p>"Path or way." A term used in Sufi practices, to refer to a spiritual path or a specific discipline of Sufi thought following a particular master.</essay:p>
+<essay:p><pres:bold>Ta˓ziyeh (Per., ta-zee-<pres:italics>ya</pres:italics><pres:sup>h</pres:sup>) (Ar., ta˓ziya):</pres:bold></essay:p>
+<essay:p>Performances conducted among the Shi˓ites commemorating the martyrdom of Husayn ibn ˓Ali at Karbala.</essay:p>
+<essay:p><pres:bold>Ulema (u<pres:sup>h</pres:sup>-la<pres:sup>h</pres:sup>-<pres:italics>ma˒</pres:italics> Ar., sing. ˓Alim, pl., ˓Ulama˒):</pres:bold></essay:p>
+<essay:p>A scholar or learned person in the Islamic sciences, such as fiqh and shari˓a.</essay:p>
+<essay:p><pres:bold>˓Umma (Ar., <pres:italics>um</pres:italics>-ma<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>The community of Muslim believers.</essay:p>
+<essay:p><pres:bold> Umra (Ar., <pres:italics>um</pres:italics>-ra)</pres:bold></essay:p>
+<essay:p>A visit to Mecca outside of the <pres:italics>hajj</pres:italics> period, and thought of as a "lesser pilgrimage."</essay:p>
+<essay:p><pres:bold>Wali (<pres:italics>waa</pres:italics>-lee):</pres:bold></essay:p>
+<essay:p>"A friend of God." The term is used by Shi˓ites to describe ˓Ali. Sunnis also use the term when talking about Muslim holy men and women who they believe have intercessional powers with God, a popular practice and condemned by the orthodoxy.</essay:p>
+<essay:p><pres:bold>Waqf (Ar., wa<pres:sup>h</pres:sup>kf):</pres:bold></essay:p>
+<essay:p>An endowment from which revenues from a particular property or business are allotted for a specific public service or building, often set up by an individual or his or her family. Many medieval mosques, <pres:italics>madrasa</pres:italics>s, hospitals and other buildings had endowments associated with them that provided their running expenses, salaries, etc., and the practice continues to this day.</essay:p>
+<essay:p><pres:bold>Wazir/Vizir/Vizier (Ar., wa<pres:sup>h</pres:sup>-<pres:italics>zeer</pres:italics>, Per., va<pres:sup>h</pres:sup>-<pres:italics>zeer</pres:italics>)</pres:bold></essay:p>
+<essay:p>The advisor to a ruler, and usually a person with great power.</essay:p>
+<essay:p><pres:bold>Wudu˒ (Ar., wu-<pres:italics>doo˒</pres:italics>):</pres:bold></essay:p>
+<essay:p>"Ablutions." Before prayer, Muslims must complete ablutions, cleaning their hands, feet, face, ears, mouth, and nose (in a prescribed process). Being in a state of <pres:italics>wudu˒</pres:italics> can carry over from prayer to prayer if nothing takes place to break the state of cleanliness, such as going to the bathroom, passing gas, or sexual relations, among other things. Following sexual relations, menstruation, and childbirth, believers must perform <pres:italics>ghusul</pres:italics>, which requires the whole body to be cleaned.</essay:p>
+<essay:p><pres:bold>Zakat (Ar., za-<pres:italics>kaat</pres:italics>):</pres:bold></essay:p>
+<essay:p>"Tithe or alms." Another of the five pillars required of Muslims, <pres:italics>zakat</pres:italics> is a tithe that is to be paid each year by all Muslim adults in the amount of 2.5% of their income and wealth. Shi˓ites also pay a <pres:italics>khums</pres:italics> or one-fifth on all excess wealth.</essay:p>
+<essay:p><pres:bold>Ziyara (Ar., Per., zee-<pres:italics>ya</pres:italics><pres:sup>h</pres:sup>-ra<pres:sup>h</pres:sup>):</pres:bold></essay:p>
+<essay:p>Visits to a holy shrine, particular tombs of <pres:italics>wali</pres:italics>s and holy people.</essay:p>
+<essay:p><pres:bold>Zuhd (Ar., zuhd):</pres:bold></essay:p>
+<essay:p>Asceticism, a Sufi practice.</essay:p>
+</essay:div>
+</gift-doc:body>
+</gift-doc:document>

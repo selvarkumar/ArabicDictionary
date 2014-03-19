@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?><gift-doc:document xmlns:gold="http://www.gale.com/gold" xmlns:meta="http://www.gale.com/goldschema/metadata" xmlns:media="http://www.gale.com/goldschema/media" xmlns:essay="http://www.gale.com/goldschema/essay" xmlns:gift-doc="http://www.gale.com/goldschema/gift-doc" xmlns:pres="http://www.gale.com/goldschema/pres" xmlns:vault-link="http://www.gale.com/goldschema/vault-linking" xmlns:table="http://www.gale.com/goldschema/table" xmlns:verse="http://www.gale.com/goldschema/verse" xmlns:etoc="http://www.gale.com/goldschema/etoc" xmlns:index="http://www.gale.com/goldschema/index" xmlns:mla="http://www.gale.com/goldschema/mla" xmlns:paris-pub-meta="http://www.gale.com/goldschema/paris-pub-meta" xmlns:pub-meta="http://www.gale.com/goldschema/pub-meta" xmlns:list="http://www.gale.com/goldschema/list" xmlns:shared="http://www.gale.com/goldschema/shared" xmlns:dict="http://www.gale.com/goldschema/dictionary" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gale="http://galegroup.com/ns/gale/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dir="http://www.gale.com/goldschema/dir" xmlns:tt="http://www.w3.org/ns/ttml">
+<gift-doc:metadata>
+<gift-doc:node-metadata>
+<meta:volume-number>1</meta:volume-number>
+<gift-doc:pagination-group>
+<gift-doc:pagination>
+<meta:ranges>
+<meta:range>
+<meta:begin-page>355</meta:begin-page>
+<meta:end-page>356</meta:end-page>
+</meta:range>
+</meta:ranges>
+<meta:total-pages>2</meta:total-pages>
+</gift-doc:pagination>
+</gift-doc:pagination-group>
+<meta:pdf-page-range>
+<meta:begin-page>eimw_01_00385-p.pdf</meta:begin-page>
+<meta:end-page>eimw_01_00386-p.pdf</meta:end-page>
+</meta:pdf-page-range>
+<meta:page-id-number>00385</meta:page-id-number>
+<meta:document-ids>
+<meta:id type="vault">
+<meta:value>vault_id_placeholder</meta:value>
+</meta:id>
+</meta:document-ids>
+<meta:descriptive-indexing>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>PUB_SEG_TYPE</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>14242630</meta:term-id>
+<meta:term-value>Article</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+</meta:descriptive-indexing>
+<meta:document-back-of-book-index-terms>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Al-Aqsa Martyr's Brigade,
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500222</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="355"')</vault-link:display-point>
+<vault-link:display-link>1: 355</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Intifada</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>355</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+˓Arafat, Yasir,
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500222</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="355"')</vault-link:display-point>
+<vault-link:display-link>1: 355</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Intifada</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>355</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+FATAH (harakat al-tahrir al-watani al-filastini),
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500178</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="291"')</vault-link:display-point>
+<vault-link:display-link>1: 291</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Hamas</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>291</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500222</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="355"')</vault-link:display-point>
+<vault-link:display-link>1: 355</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Intifada</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>355</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+HAMAS (Hamas; harakat almuqawamat al-Islamiyyah, Islamic Resistance Movement),
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500178</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="290"')</vault-link:display-point>
+<vault-link:display-link>1: <pres:bold>290-291</pres:bold></vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Hamas</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display><pres:bold>290-291</pres:bold></meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500222</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="355"')</vault-link:display-point>
+<vault-link:display-link>1: 355</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Intifada</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>355</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500229</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="365"')</vault-link:display-point>
+<vault-link:display-link>1: 365</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Islamic Jihad</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>365</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500230</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="366"')</vault-link:display-point>
+<vault-link:display-link>1: 366</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Islamic Salvation Front</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>366</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>external</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500518</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="732"')</vault-link:display-point>
+<vault-link:display-link>2: 732</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Waqf</meta:title-display>
+<meta:volume-number-display>2</meta:volume-number-display>
+<meta:page-range-display>732</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>external</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500526</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="741"')</vault-link:display-point>
+<vault-link:display-link>2: 741</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Youth Movements</meta:title-display>
+<meta:volume-number-display>2</meta:volume-number-display>
+<meta:page-range-display>741</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+HAMAS (Hamas; harakat almuqawamat al-Islamiyyah, Islamic Resistance Movement),
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500178</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="290"')</vault-link:display-point>
+<vault-link:display-link>1: <pres:bold>290-291</pres:bold></vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Hamas</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display><pres:bold>290-291</pres:bold></meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500222</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="355"')</vault-link:display-point>
+<vault-link:display-link>1: 355</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Intifada</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>355</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500229</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="365"')</vault-link:display-point>
+<vault-link:display-link>1: 365</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Islamic Jihad</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>365</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500230</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="366"')</vault-link:display-point>
+<vault-link:display-link>1: 366</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Islamic Salvation Front</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>366</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>external</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500518</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="732"')</vault-link:display-point>
+<vault-link:display-link>2: 732</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Waqf</meta:title-display>
+<meta:volume-number-display>2</meta:volume-number-display>
+<meta:page-range-display>732</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>external</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500526</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="741"')</vault-link:display-point>
+<vault-link:display-link>2: 741</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Youth Movements</meta:title-display>
+<meta:volume-number-display>2</meta:volume-number-display>
+<meta:page-range-display>741</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Harakat al-tahrir al-watani al-filastini (FATAH),
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500178</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="291"')</vault-link:display-point>
+<vault-link:display-link>1: 291</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Hamas</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>291</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500222</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="355"')</vault-link:display-point>
+<vault-link:display-link>1: 355</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Intifada</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>355</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Intifada (uprising),
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500178</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="290"')</vault-link:display-point>
+<vault-link:display-link>1: 290</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Hamas</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>290</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500222</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="355"')</vault-link:display-point>
+<vault-link:display-link>1: <pres:bold>355-356</pres:bold></vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Intifada</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display><pres:bold>355-356</pres:bold></meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500229</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="365"')</vault-link:display-point>
+<vault-link:display-link>1: 365</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Islamic Jihad</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>365</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>external</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500526</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="740"')</vault-link:display-point>
+<vault-link:display-link>2: 740</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Youth Movements</meta:title-display>
+<meta:volume-number-display>2</meta:volume-number-display>
+<meta:page-range-display>740</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Intifada (uprising),
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500178</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="290"')</vault-link:display-point>
+<vault-link:display-link>1: 290</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Hamas</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>290</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500222</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="355"')</vault-link:display-point>
+<vault-link:display-link>1: <pres:bold>355-356</pres:bold></vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Intifada</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display><pres:bold>355-356</pres:bold></meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500229</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="365"')</vault-link:display-point>
+<vault-link:display-link>1: 365</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Islamic Jihad</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>365</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>external</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500526</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="740"')</vault-link:display-point>
+<vault-link:display-link>2: 740</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Youth Movements</meta:title-display>
+<meta:volume-number-display>2</meta:volume-number-display>
+<meta:page-range-display>740</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Islamic Jihad,
+</meta:bob-index-term>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+militarism of,
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500216</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="346"')</vault-link:display-point>
+<vault-link:display-link>1: 346</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Ikhwan Al-Muslimin</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>346</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500222</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="355"')</vault-link:display-point>
+<vault-link:display-link>1: 355</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Intifada</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>355</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+LIKUD Party,
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500222</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="355"')</vault-link:display-point>
+<vault-link:display-link>1: 355</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Intifada</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>355</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Palestine Liberation Organization (PLO)
+</meta:bob-index-term>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+and intifada,
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500222</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="355"')</vault-link:display-point>
+<vault-link:display-link>1: 355</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Intifada</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>355</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+recognition of Israel by,
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500222</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="355"')</vault-link:display-point>
+<vault-link:display-link>1: 355</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Intifada</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>355</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Palestinian Authority (PA),
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500060</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="68"')</vault-link:display-point>
+<vault-link:display-link>1: 68</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Arabic Literature</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>68</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500222</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="355"')</vault-link:display-point>
+<vault-link:display-link>1: 355</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Intifada</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>355</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+PA (Palestinian Authority),
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500060</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="68"')</vault-link:display-point>
+<vault-link:display-link>1: 68</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Arabic Literature</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>68</meta:page-range-display>
+</meta:bob-index-term-metadata>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500222</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="355"')</vault-link:display-point>
+<vault-link:display-link>1: 355</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Intifada</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>355</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Rabin, Yitzhak,
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500222</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="355"')</vault-link:display-point>
+<vault-link:display-link>1: 355</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Intifada</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>355</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+<meta:bob-index-term-chunk>
+<meta:bob-index-term>
+Sharon, Ariel,
+</meta:bob-index-term>
+<meta:bob-index-term-metadata>
+<vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500222</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-point>contains(//processing-instruction('pageBreak'), 'pageno="355"')</vault-link:display-point>
+<vault-link:display-link>1: 355</vault-link:display-link>
+</vault-link:vault-link>
+<meta:title-display>Intifada</meta:title-display>
+<meta:volume-number-display>1</meta:volume-number-display>
+<meta:page-range-display>355</meta:page-range-display>
+</meta:bob-index-term-metadata>
+</meta:bob-index-term-chunk>
+</meta:document-back-of-book-index-terms>
+</gift-doc:node-metadata>
+<gift-doc:document-metadata>
+<meta:document-ids>
+<meta:id type="zzNumber">
+<meta:value>3403500222</meta:value>
+<meta:prefix>CX</meta:prefix>
+</meta:id>
+</meta:document-ids>
+<meta:publication-title>Encyclopedia of Islam and the Muslim World</meta:publication-title>
+<meta:publication-date><meta:structured-date><meta:year>2004</meta:year></meta:structured-date>
+<meta:standard-date>20040000</meta:standard-date>
+</meta:publication-date>
+<meta:mcode>5AMU</meta:mcode>
+<meta:filename>eimw_01_00222.xml</meta:filename>
+<gift-doc:document-titles>
+<meta:title-display>Intifada</meta:title-display>
+<meta:title-sort>Intifada</meta:title-sort>
+<meta:title-open-url>Intifada</meta:title-open-url>
+</gift-doc:document-titles>
+<meta:authors>
+<meta:author>
+<meta:structured-name>
+<meta:first-name>Philip</meta:first-name>
+<meta:last-name>Mattar</meta:last-name>
+</meta:structured-name>
+<meta:composed-name>Philip Mattar</meta:composed-name>
+</meta:author>
+</meta:authors>
+<meta:descriptive-indexing>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>END_YR</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>11053619</meta:term-id>
+<meta:term-value>1993 AD</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>PERSON</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>13039434</meta:term-id>
+<meta:term-value>Sharon, Ariel</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>EVENT</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>11836548</meta:term-id>
+<meta:term-value>Al-Aqsa Intifada, 2000-</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>START_YR</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>11270011</meta:term-id>
+<meta:term-value>2000 AD</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>GEO_SCOPE</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>1101949</meta:term-id>
+<meta:term-value>Israel</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>EVENT</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>11838736</meta:term-id>
+<meta:term-value>Intifada, 1987-1993</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>GEO_SCOPE</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>11386808</meta:term-id>
+<meta:term-value>West Bank</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>START_YR</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>11216374</meta:term-id>
+<meta:term-value>1987 AD</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>DOC_INFO_TYPE</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>14168015</meta:term-id>
+<meta:term-value>Event overview</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>SUBJECT</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>11208140</meta:term-id>
+<meta:term-value>Arab-Israeli conflicts</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>GEO_SCOPE</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>11379196</meta:term-id>
+<meta:term-value>Gaza Strip</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>CONT_TYPE</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>14223261</meta:term-id>
+<meta:term-value>Reference</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>CONT_REC_TYPE</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>17234672</meta:term-id>
+<meta:term-value>Text</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+<meta:indexing-term>
+<meta:term>
+<meta:term-type>ART_LANG</meta:term-type>
+<meta:term-source>Atlas</meta:term-source>
+<meta:term-id>13858590</meta:term-id>
+<meta:term-value>English</meta:term-value>
+</meta:term>
+</meta:indexing-term>
+</meta:descriptive-indexing>
+<meta:record-admin-info>
+<meta:standard-date type ="Original">2004</meta:standard-date>
+<meta:indexing-process>Manual</meta:indexing-process>
+</meta:record-admin-info>
+</gift-doc:document-metadata>
+</gift-doc:metadata>
+<gift-doc:body>
+
+<essay:div document-segment-type="Body text" term-id="14214508" term-source="Atlas">
+
+<?pageBreak mcode="5AMU" pageno="355" pdfname="eimw_01_00385-p.pdf"?>
+<essay:h1>INTIFADA</essay:h1>
+<essay:p><pres:italics>Intifada</pres:italics> ("shaking off") is the name given to two Palestinian uprisings against the Israeli occupation of the West Bank and Gaza Strip. The first began in December of 1987 as a popular uprising, its hallmark being the image of Palestinian youths throwing rocks at Israeli soldiers and settlers in the occupied territories. This Intifada was triggered by an incident in Gaza that turned violent and subsequently spread rapidly to the West Bank territories. Over the next several years, the Intifada escalated, involving demonstrations, strikes, riots, and violence against Israelis. The Intifada lasted until 1993 when, in response to the uprising, the Oslo Accords were drawn up between Israeli and Palestinian negotiators.</essay:p>
+<essay:p>Al-Aqsa Intifada began after Ariel Sharon, a leader of the Israeli right-wing LIKUD Party, visited al-Haram al-Sharif (Temple Mount), in Jerusalem, on 28 September 2000. Al-Haram, which contains al-Aqsa Mosque, is the third holiest shrine of Islam. The visit was provocative to Palestinians, especially because Sharon was accompanied by one thousand riot police, but what triggered the Intifada the following day was the Israeli police use of live ammunition and rubber bullets against unarmed, rock-throwing Palestinian demonstrators, killing six and injuring 220.</essay:p>
+<essay:p>The fundamental cause of al-Aqsa Intifada was the breakdown, in July 2000, of the Israeli-Palestinian peace process that had begun with the Oslo Accords of 1993. Palestinians expected that the Palestine Liberation Organization's (PLO) recognition of Israel, which was a part of that agreement, would lead to an end of the thirty-three-year Israeli occupation of the West Bank and Gaza, and to the establishment of a Palestine state. However, the number of Israeli settlers in the West Bank and Gaza doubled to 187,000 and increased to 170,000 in East Jerusalem in the 1990s, and Israel confiscated more Palestinian land for the settlements and their access roads. Israel extended its policy of restricting the movement of Palestinians, and of establishing checkpoints where Palestinians experienced humiliation. Israel also continued to demolish homes and to uproot and burn olive and fruit trees, as a form of collective punishment and for security reasons. In short, Israeli repression and unmet Palestinian expectations of freedom and independence contributed to years of pent-up frustration, despair, and rage.</essay:p>
+<essay:p>Like the first Intifada, Palestinians in October 2000 began by using nonviolent methods. After 144 Palestinians had been killed, however, Islamist groups, such as HAMAS and Islamic Jihad, began a campaign of suicide bombings against mostly civilians in the occupied territories and Israel, while groups associated with Fatah organization, such as al-Aqsa Martyr's Brigade, focused on resistance against Israeli army incursions and conducted attacks on settlers in the West Bank and Gaza. Starting in January 2002, al-Aqsa Brigade also began conducting suicide bombings against mostly Israeli civilians, a practice condemned by the international community. Yasir ˓Arafat, head of Fatah and the PLO, and president of the Palestinian Authority (PA) since 1996, did not initiate the Intifada, but he reportedly gave tacit approval to armed resistance and terrorism, despite his promise made in the Oslo Accords in 1993 to Prime Minister Yitzhak Rabin to renounce "the use of terrorism and other acts of violence."</essay:p>
+<essay:p>Sharon became Israel's Prime Minister on 6 February 2001. A proponent of Greater Israel, an architect of the settlements, and an opponent of the Oslo process, he proceeded, with broad public support, to use harsh measures against the Palestinians in the West Bank and Gaza. In response to Palestinian violence, he initiated a policy of assassinations, euphemistically called "targeted killings," of suspected terrorists leaders, but which included activists and innocent bystanders. He reoccupied major Palestinian cities, using helicopter gunships, war planes and tanks. Some of Sharon's methods were condemned by both human rights groups and the United States.</essay:p>
+<essay:p>The Intifada was costly to the Palestinians, Israel, and the United States during the first thirty months. Some strategists, including Palestinian analysts, considered the militarization of the Intifada to be a blunder. The Oslo process was destroyed, ˓Arafat sidelined, the Palestinian economy damaged, and the PA areas occupied, while settlement construction continued apace. Sharon's harsh measures cost the lives of over 2,000 Palestinians, of whom most were civilians, including about 275 children. In addition, the Palestinians lost much popular, moral, and diplomatic support around the world. The Intifada also cost the lives of over 700 Israelis, most of whom were civilians, brought insecurity to their lives, and resulted in the loss of faith in the Palestinians as peace partners.</essay:p>
+</essay:div>
+<essay:div document-segment-type="Other" term-source="Atlas">
+
+<essay:p><pres:italics>See also</pres:italics> <vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500112</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-link>Conflict and Violence</vault-link:display-link>
+</vault-link:vault-link>
+; <vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500178</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-link>HAMAS</vault-link:display-link>
+</vault-link:vault-link>
+; <vault-link:vault-link>
+<vault-link:link-type>internal</vault-link:link-type>
+<vault-link:data-type>text/xml</vault-link:data-type>
+<vault-link:action>point</vault-link:action>
+<vault-link:where>
+<vault-link:path>CX3403500200</vault-link:path>
+</vault-link:where>
+<vault-link:select>
+<vault-link:document-nodes>
+<vault-link:target>ancestor::gift-doc:document</vault-link:target>
+</vault-link:document-nodes>
+</vault-link:select>
+<vault-link:display-link>Human Rights</vault-link:display-link>
+</vault-link:vault-link>
+.</essay:p>
+</essay:div>
+<essay:div document-segment-type="Sources" term-id="17200451" term-source="Atlas">
+
+<essay:h2>BIBLIOGRAPHY</essay:h2>
+<essay:p>Lockman, Zachary, and Beinin, Joel. <pres:italics>Intifada: The Palestinian Uprising Against Israeli Occupation.</pres:italics> Boston: South End Press, 1989.</essay:p>
+
+<?pageBreak mcode="5AMU" pageno="356" pdfname="eimw_01_00386-p.pdf"?>
+
+<essay:p>O'Ballance, Edgar. <pres:italics>The Palestinian Intifada.</pres:italics> New York: Macmillan, 1998.</essay:p>
+</essay:div>
+<essay:div document-segment-type="Other" term-source="Atlas">
+
+<essay:p><pres:italics>Philip Mattar</pres:italics></essay:p>
+</essay:div>
+</gift-doc:body>
+</gift-doc:document>
