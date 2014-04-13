@@ -17,8 +17,15 @@
 
 	<xsl:param name="arabicDictionary" />
 
-	<xsl:template match="gift-doc:body/essay:div/essay:p/pres:bold">
-		<xsl:value-of disable-output-escaping="yes" select="ext:addDictionaryTerm($arabicDictionary, .)" />
+	<xsl:template match="/Document/Definitions">
+	    <xsl:apply-templates/>
+	</xsl:template>
+
+	<xsl:template match="Definition">
+	    <xsl:variable name="Term" select="Term" />
+	    <xsl:variable name="PronunciationKey" select="PronunciationKey" />
+	    <xsl:variable name="Meaning" select="Meaning" />
+	    <xsl:value-of disable-output-escaping="yes" select="ext:addTermDef2Dictionary($arabicDictionary, $Term, $PronunciationKey, $Meaning)" />
 	</xsl:template>
 
 </xsl:stylesheet>

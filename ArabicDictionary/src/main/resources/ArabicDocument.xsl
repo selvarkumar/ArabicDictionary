@@ -590,7 +590,7 @@
                             	<xsl:text>background-color: #FFFF00</xsl:text>
                         	</xsl:attribute>
 	                        <xsl:attribute name="title">
-	                            <xsl:value-of select="ext:termValue($arabicDictionary, $text)"/>
+	                            <xsl:value-of select="ext:htmlToolTip($arabicDictionary, $text)"/>
 	                        </xsl:attribute>
 	                        <xsl:value-of select="$text"/>
 	                    </span>

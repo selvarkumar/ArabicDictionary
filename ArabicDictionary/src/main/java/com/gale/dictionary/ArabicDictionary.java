@@ -4,41 +4,35 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class ArabicDictionary {
-	private Map<String, String> dictionaryTerm;
-
-	public ArabicDictionary() {
-		dictionaryTerm = new LinkedHashMap<String, String>();
-	}
-
-	public void addDictionaryTerm(String term) {
-		addKeyPronunciation(term);
-	}
+	private Map<String, DictionaryTerm> dictionaryTerms;
 	
-	public Map<String, String> terms() {
-		return dictionaryTerm;
+	public ArabicDictionary() {
+		dictionaryTerms = new LinkedHashMap<String, DictionaryTerm>();
 	}
 
-	public String termValue(String termKey) {
+	public Map<String, DictionaryTerm> terms() {
+		return dictionaryTerms;
+	}
+
+	public DictionaryTerm termValue(String termKey) {
 		String normalizedTermKey = termKey.trim().toLowerCase();
-		return dictionaryTerm.get(normalizedTermKey);
+		return dictionaryTerms.get(normalizedTermKey);
+	}
+
+	public String htmlToolTip(String termKey) {
+		String normalizedTermKey = termKey.trim().toLowerCase();
+		return dictionaryTerms.get(normalizedTermKey).htmlToolTip();
 	}
 
 	public boolean isDictionaryTerm(String termKey) {
 		String normalizedTermKey = termKey.trim().toLowerCase();
-		return dictionaryTerm.containsKey(normalizedTermKey);
+		return dictionaryTerms.containsKey(normalizedTermKey);
 	}
 
-	private void addKeyPronunciation(String term) {
-		String[] parts = term.split("[()]");
-		if (parts.length > 1) {
-			String termKey = parts[0];
-			String termValue = parts[1];
-			String[] splits = termValue.split(" ");
-			String termPronunciation = splits[splits.length-1];
-			String normalizedTermKey = termKey.trim().toLowerCase();
-			String normalizedTermPronunciation = termPronunciation.trim().toLowerCase();
-			dictionaryTerm.put(normalizedTermKey, normalizedTermPronunciation);
-		}
-	}
+	public void addTermDef2Dictionary(String termKey, String pronunciationKey, String meaning) {
+		String normalizedTermKey = termKey.trim().toLowerCase();
+		DictionaryTerm dictionaryTerm = new DictionaryTerm(termKey.trim(), pronunciationKey.trim(), meaning.trim());	
+		dictionaryTerms.put(normalizedTermKey, dictionaryTerm);
+   }
 
 }
